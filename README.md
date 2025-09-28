@@ -56,25 +56,24 @@ The data is loaded and inspected for missing values and data types. The distribu
 
 ##  How to Use
 
-### To run this project:
+#### To run this project:
 
-### Clone the repository:
+####  Clone the repository:
 ```bash
  git clone https://github.com/smusab9152/bpm_pred_songs.git
  cd bpm_pred_songs
 ```
-### Install dependencies:
-It is recommended to use a virtual environment.
+#### Install dependencies:
+It is recommended to use a virtual environment.(`conda`)
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib jupyter
 ```
-### Run the Jupyter Notebook:
+#### Run the Jupyter Notebook:
 ```bash
 jupyter notebook`
 ```
 Then, open and run the cells in notebook.ipynb.
-
 
 ## Reference
 - Kaggle Competition [Link](https://www.kaggle.com/competitions/playground-series-s5e9)
