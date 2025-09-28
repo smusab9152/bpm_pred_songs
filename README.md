@@ -11,7 +11,7 @@ The main analysis and model development are performed in the notebook.ipynb Jupy
 
 The data for this competition is provided in two files:
 
--**`datasets/train.csv:`**- The training set, which includes all the audio features as well as the target variable, BeatsPerMinute.
+**`datasets/train.csv:`**- The training set, which includes all the audio features as well as the target variable, BeatsPerMinute.
 -**`datasets/test.csv:`**- The test set, which contains the same features as the training set but without the target variable.
 
 ## Features
