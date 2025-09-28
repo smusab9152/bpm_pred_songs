@@ -42,14 +42,14 @@ A baseline model using Linear Regression was initially built.
 The project plan includes experimenting with more advanced regression models such as SVR, LightGBM, XGBoost, and Neural Networks to capture more complex, non-linear patterns in the data.
 
 ## Repository Structure:
-
+```
  ├── datasets
  │   ├── train.csv
  │   └── test.csv
  ├── notebook.ipynb
  ├── submission.csv
  └── README.md
-
+```
 
 `datasets/:` Contains the raw training and test data.
 `notebook.ipynb:` The main Jupyter Notebook with all the analysis and modeling code.
@@ -64,16 +64,16 @@ The project plan includes experimenting with more advanced regression models suc
 ### Clone the repository:
 ```bash
  git clone [https://github.com/smusab9152/bpm_pred_songs.git](https://github.com/smusab9152/bpm_pred_songs.git)
- cd bpm_pred_songs```
-
+ cd bpm_pred_songs
+```
 ### Install dependencies:
 It is recommended to use a virtual environment.
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib jupyter
-
+```
 ### Run the Jupyter Notebook:
 ```bash
 jupyter notebook`
-
+```
 Then, open and run the cells in notebook.ipynb.
