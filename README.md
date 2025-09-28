@@ -34,10 +34,10 @@ The data is loaded and inspected for missing values and data types.
 The distributions of all numerical features are visualized using histograms to identify skewness.
 ### Data Preprocessing:
 
-#### Log Transformation: To handle right-skewed features (VocalContent, AcousticQuality, InstrumentalScore, LivePerformanceLikelihood), a log transformation (np.log1p) is applied to make their distributions more normal.
-#### Train-Validation Split: The training data is split into a training set and a validation set to evaluate model performance accurately and prevent data leakage.
+- Log Transformation: To handle right-skewed features (VocalContent, AcousticQuality, InstrumentalScore, LivePerformanceLikelihood), a log transformation (np.log1p) is applied to make their distributions more normal.
+- Train-Validation Split: The training data is split into a training set and a validation set to evaluate model performance accurately and prevent data leakage.
 Feature Scaling: StandardScaler (Z-score scaling) is used to scale all features. The scaler is fitted only on the training data and then used to transform both the training and validation sets.
-#### Modeling:
+- Modeling:
 A baseline model using Linear Regression was initially built.
 The project plan includes experimenting with more advanced regression models such as SVR, LightGBM, XGBoost, and Neural Networks to capture more complex, non-linear patterns in the data.
 
