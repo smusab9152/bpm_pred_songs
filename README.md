@@ -16,15 +16,15 @@ The data for this competition is provided in two files:
 
 ## Features
 The dataset includes the following audio features: 
-`RhythmScore`
-`AudioLoudness`
-`VocalContent`
-`AcousticQuality`
-`InstrumentalScore`
-`LivePerformanceLikelihood`
-`MoodScore`
-`TrackDurationMs`
-`Energy`
+- `RhythmScore`
+- `AudioLoudness`
+- `VocalContent`
+- `AcousticQuality`
+- `InstrumentalScore`
+- `LivePerformanceLikelihood`
+- `MoodScore`
+- `TrackDurationMs`
+- `Energy`
 
 ## Methodology
 The approach taken in notebook.ipynb follows a standard machine learning workflow:
