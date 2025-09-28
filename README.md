@@ -51,10 +51,10 @@ The project plan includes experimenting with more advanced regression models suc
  └── README.md
 ```
 
-`datasets/:` Contains the raw training and test data.
-`notebook.ipynb:` The main Jupyter Notebook with all the analysis and modeling code.
-`submission.csv:` A sample submission file in the format required by Kaggle.
-`README.md:` This file, providing an overview of the project.
+- `datasets/:` Contains the raw training and test data.
+- `notebook.ipynb:` The main Jupyter Notebook with all the analysis and modeling code.
+- `submission.csv:` A sample submission file in the format required by Kaggle.
+- `README.md:` This file, providing an overview of the project.
 
 
 ##  How to Use
