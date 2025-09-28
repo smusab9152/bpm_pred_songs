@@ -10,8 +10,8 @@ The core of this project is a regression task where we are given a set of audio 
 
 The data for this competition is provided in two files:
 
-- **`datasets/train.csv:`**- The training set, which includes all the audio features as well as the target variable, BeatsPerMinute.
-- **`datasets/test.csv:`**- The test set, which contains the same features as the training set but without the target variable.
+- **`datasets/train.csv`**:- The training set, which includes all the audio features as well as the target variable, BeatsPerMinute.
+- **`datasets/test.csv:`**:- The test set, which contains the same features as the training set but without the target variable.
 
 ## Features
 The dataset includes the following audio features: 
@@ -48,10 +48,10 @@ The data is loaded and inspected for missing values and data types. The distribu
  └── README.md
 ```
 
-- `datasets/:` Contains the raw training and test data.
-- `notebook.ipynb:` The main Jupyter Notebook with all the analysis and modeling code.
-- `submission.csv:` A sample submission file in the format required by Kaggle.
-- `README.md:` This file, providing an overview of the project.
+- `datasets/`: Contains the raw training and test data.
+- `notebook.ipynb`: The main Jupyter Notebook with all the analysis and modeling code.
+- `submission.csv`: A sample submission file in the format required by Kaggle.
+- `README.md`: This file, providing an overview of the project.
 
 
 ##  How to Use
