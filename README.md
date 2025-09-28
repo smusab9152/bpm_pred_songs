@@ -80,11 +80,4 @@ Then, open and run the cells in notebook.ipynb.
 
 
 ## Reference
-
-@misc{playground-series-s5e9,
-    author = {Walter Reade and Elizabeth Park},
-    title = {Predicting the Beats-per-Minute of Songs},
-    year = {2025},
-    howpublished = {\url{https://kaggle.com/competitions/playground-series-s5e9}},
-    note = {Kaggle}
-}
+- Kaggle Competition [Link](https://www.kaggle.com/competitions/playground-series-s5e9)
