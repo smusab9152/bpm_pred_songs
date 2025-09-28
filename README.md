@@ -42,12 +42,12 @@ A baseline model using Linear Regression was initially built.
 The project plan includes experimenting with more advanced regression models such as SVR, LightGBM, XGBoost, and Neural Networks to capture more complex, non-linear patterns in the data.
 
 ## Repository Structure
-`├── datasets
+ ├── datasets
  │   ├── train.csv
  │   └── test.csv
  ├── notebook.ipynb
  ├── submission.csv
- └── README.md`
+ └── README.md
 
 
 `datasets/:` Contains the raw training and test data.
