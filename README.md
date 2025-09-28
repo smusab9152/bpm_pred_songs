@@ -62,17 +62,18 @@ The project plan includes experimenting with more advanced regression models suc
 ### To run this project:
 
 ### Clone the repository:
-`git clone [https://github.com/smusab9152/bpm_pred_songs.git](https://github.com/smusab9152/bpm_pred_songs.git)
- cd bpm_pred_songs`
-
-
+```bash
+ git clone [https://github.com/smusab9152/bpm_pred_songs.git](https://github.com/smusab9152/bpm_pred_songs.git)
+ cd bpm_pred_songs```
 
 ### Install dependencies:
 It is recommended to use a virtual environment.
-`pip install pandas numpy scikit-learn matplotlib jupyter`
 
+```bash
+pip install pandas numpy scikit-learn matplotlib jupyter
 
 ### Run the Jupyter Notebook:
-`jupyter notebook`
+```bash
+jupyter notebook`
 
 Then, open and run the cells in notebook.ipynb.
