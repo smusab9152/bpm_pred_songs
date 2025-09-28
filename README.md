@@ -41,7 +41,8 @@ Feature Scaling: StandardScaler (Z-score scaling) is used to scale all features.
 A baseline model using Linear Regression was initially built.
 The project plan includes experimenting with more advanced regression models such as SVR, LightGBM, XGBoost, and Neural Networks to capture more complex, non-linear patterns in the data.
 
-## Repository Structure
+## Repository Structure:
+
  ├── datasets
  │   ├── train.csv
  │   └── test.csv
