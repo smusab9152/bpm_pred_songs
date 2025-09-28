@@ -1,6 +1,6 @@
 # Predicting Beats Per Minute in Songs
 
-This repository contains the code and data for the Kaggle Playground Series (Season 4, Episode 2) competition. The primary goal of this project is to predict the Beats Per Minute (BPM) of a song based on various musical and audio features. [Competition Link](https://www.kaggle.com/competitions/playground-series-s5e9)
+This repository contains the code and data for the Kaggle Playground Series (Season 4, Episode 2) competition. The primary goal of this project is to predict the Beats Per Minute (BPM) of a song based on various musical and audio features. 
 
 ## Project Overview
 
@@ -77,3 +77,14 @@ pip install pandas numpy scikit-learn matplotlib jupyter
 jupyter notebook`
 ```
 Then, open and run the cells in notebook.ipynb.
+
+
+## Reference
+
+@misc{playground-series-s5e9,
+    author = {Walter Reade and Elizabeth Park},
+    title = {Predicting the Beats-per-Minute of Songs},
+    year = {2025},
+    howpublished = {\url{https://kaggle.com/competitions/playground-series-s5e9}},
+    note = {Kaggle}
+}
