@@ -1,6 +1,6 @@
 # Predicting Beats Per Minute in Songs
 
-This repository contains the code and data for the Kaggle Playground Series (Season 4, Episode 2) competition. The primary goal of this project is to predict the Beats Per Minute (BPM) of a song based on various musical and audio features.
+This repository contains the code and data for the Kaggle Playground Series (Season 4, Episode 2) competition. The primary goal of this project is to predict the Beats Per Minute (BPM) of a song based on various musical and audio features.[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e9)
 
 ## Project Overview
 
