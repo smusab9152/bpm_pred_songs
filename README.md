@@ -77,3 +77,5 @@ Then, open and run the cells in notebook.ipynb.
 
 ## Reference
 - Kaggle Competition [Link](https://www.kaggle.com/competitions/playground-series-s5e9)
+
+### Python 3.8.0
